@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails message: test" uuid="add8bc2e-256d-48ec-9daa-517cea58d9b7">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="Rails message: production" uuid="94a335d5-82ed-4696-a1f8-e4d09e115c14">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>snap_message</user-name>
+    </data-source>
+    <data-source name="Rails message: development" uuid="9eb299f1-787e-4ca9-acc2-66370e465a70">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>postgres</user-name>
+    </data-source>
+  </component>
+</project>
